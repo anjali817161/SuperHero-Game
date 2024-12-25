@@ -1,0 +1,177 @@
+body{
+    margin:0;
+    background-color: blueviolet;
+    width: 100%;
+    height:80vh;
+    background-image: url(https://i.pinimg.com/originals/50/11/e2/5011e2ab4cf502f55a91ecb84b94376b.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#dilkiimage{
+    height: 25px;
+    width: 25px;
+    margin-top: 2px;
+    position: absolute;
+    margin-left: -28px;
+}
+#introduction{
+
+    
+    position: absolute;
+    margin-top: -9%;
+    margin-left: 12%;
+}
+
+.beast{
+    /* display: block; */
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+#introduction > span{
+    /* display: block; */
+    color:#6d678e;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: fantasy;
+}
+#intro-beast{
+    position: fixed;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+
+#fab-tab{
+    text-decoration: none;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 1221px;
+    font-size: x-large;
+    font-weight: 700;
+}
+#fab-tab:hover{
+    color:rgb(168, 90, 90);
+}
+#search-container{
+   margin-left:30%;
+    margin-top:10%;
+}
+
+#input1{
+    height: 58px;
+    width: 50%;
+    border: none;
+    border-radius: 80px;
+    font-size: 25px;
+    font-weight: 800;
+    color: rgb(140, 93, 103);
+    padding-left: 18px;
+}
+#Btn{
+    position: absolute;
+    height: 50px;
+    width: 80px;
+    border-radius: 61px;
+    margin-top: 5px;
+    margin-left: -82px;
+    background-color: gray;
+}
+
+#Btn:hover{
+    background-color: blue;
+}
+
+li{
+    color: white;
+    background-color: rgb(3, 56, 56);
+   background: transparent;
+    width: 34%;
+    margin-left: 29%;
+    list-style-type:none;
+    
+}
+
+li:hover{
+    background-color: rgb(108, 100, 106);
+}
+.listItem{
+    text-decoration: none;
+}
+
+.listimage{
+    height: 120px;
+    width:120px;
+}
+
+.heartImage{
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 25px
+}
+
+
+
+
+
+.content{
+    margin-left:10%;
+    width: 80%;
+    /* background-color: yellowgreen; */
+    
+    }
+    .content > div{
+        display: inline-block;
+    
+    }
+    
+    /* .leftImage{
+        height: 200px;
+        width: 200px;
+    
+    } */
+
+    .listimage{
+        height: 120px;
+        width:120px;
+    }
+    
+    
+    .likeImage{
+        height:25px;
+        width:25px;
+    }
+    /* span{
+        display: block;
+    
+    } */
+    .myId{
+    display:block;
+    font-size: x-large;
+    font-weight: 700;
+    
+    }
+    .myName{
+        display:block;
+        font-size: x-large;
+        font-weight: 700;
+    }
+    
+    .btn{
+        position: absolute;
+        margin-left: 18%;
+        margin-top: 2.5%;
+    }
+    .rightDiv{
+        position: absolute;
+        margin-top: 3%;
+        margin-left: 1%;
+    }
+    
+    
+    
+    
